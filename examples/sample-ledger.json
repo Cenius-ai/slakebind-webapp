@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "b41f6c07",
+      "created_at": "2025-05-02T09:14:22",
+      "bath_date": "2025-05-02",
+      "species": "oak",
+      "source": "Mill Creek",
+      "quantity": "8",
+      "unit": "lb",
+      "quantity_g": "3628.73896",
+      "note": "wet stand, bark lifted cleanly"
+    },
+    {
+      "id": "1d9ab3f2",
+      "created_at": "2025-04-18T16:02:41",
+      "bath_date": "2025-04-18",
+      "species": "hemlock",
+      "source": "North Slope",
+      "quantity": "18",
+      "unit": "kg",
+      "quantity_g": "18000",
+      "note": "strong tanning bark, strip in thin sheets"
+    },
+    {
+      "id": "7ac53e18",
+      "created_at": "2025-04-01T08:31:05",
+      "bath_date": "2025-04-01",
+      "species": "oak",
+      "source": "Hill Farm",
+      "quantity": "25",
+      "unit": "kg",
+      "quantity_g": "25000",
+      "note": "spring bark, first pull of the year"
+    },
+    {
+      "id": "0e6f2b94",
+      "created_at": "2025-03-22T11:47:59",
+      "bath_date": "2025-03-22",
+      "species": "birch",
+      "source": "Ridge Stand",
+      "quantity": "6.25",
+      "unit": "kg",
+      "quantity_g": "6250",
+      "note": ""
+    },
+    {
+      "id": "c2d8075a",
+      "created_at": "2025-03-14T13:20:33",
+      "bath_date": "2025-03-14",
+      "species": "birch",
+      "source": "Ridge Stand",
+      "quantity": "12.5",
+      "unit": "kg",
+      "quantity_g": "12500",
+      "note": "peeled by hand, drying on the rack"
+    },
+    {
+      "id": "9f31c5be",
+      "created_at": "2025-02-27T10:05:12",
+      "bath_date": "2025-02-27",
+      "species": "oak",
+      "source": "Wet Hollow",
+      "quantity": "500",
+      "unit": "g",
+      "quantity_g": "500",
+      "note": "small trial batch for the workshop class"
+    }
+  ]
+}
