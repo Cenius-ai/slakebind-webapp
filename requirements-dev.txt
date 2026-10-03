@@ -1,0 +1,2 @@
+# Test runner for Slakebind. The tool itself has no runtime dependencies.
+pytest==9.1.1
