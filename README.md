@@ -91,7 +91,7 @@ _Full guide: [`USAGE.md`](USAGE.md)_
 
 ## Architecture
 
-Starting up is just `./install.sh`: it installs what is needed and pre-fills the database so you have data to work with straight away. The Full-stack app codebase (27 files) is self-contained — no external services needed to evaluate it. Top-level layout: `examples/`, `tests/`. For environment-specific setup, see [`INSTALL.md`](INSTALL.md).
+Starting up is just `./install.sh`: it installs what is needed and pre-fills the database so you have data to work with straight away. The Full-stack app codebase (17 files) is self-contained — no external services needed to evaluate it. Top-level layout: `examples/`, `tests/`. For environment-specific setup, see [`INSTALL.md`](INSTALL.md).
 
 ## FAQ
 
